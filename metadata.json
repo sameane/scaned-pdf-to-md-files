@@ -1,0 +1,5 @@
+{
+  "name": "Scaned pdf to md files ",
+  "description": "An AI-powered tool to convert scanned PDF pages or images of textbook content into a structured Markdown file. It extracts text, formats questions, and describes visuals to make the content accessible without the original images.",
+  "requestFramePermissions": []
+}
